@@ -1,6 +1,10 @@
-# Nosetest
+# Nosetest Docker file
 
-Nose tests docker file
+Nose tests docker file - please download or copy the above Dockerfile
+
+Dockerfiles are used to create docker images and this is just an example docker file to help you with nose images.
+
+You could store the image , once created in docker hub
 
 Docker images can be created using
 
